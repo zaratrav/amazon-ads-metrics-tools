@@ -1,0 +1,1 @@
+function calc(){let margin=+a.value||0;res.innerText=margin.toFixed(2)+'%';}

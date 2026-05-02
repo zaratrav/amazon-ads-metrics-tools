@@ -1,0 +1,1 @@
+function calc(){let acos=+a.value||0;let tacos=+b.value||0;res.innerText='Diff: '+(acos-tacos).toFixed(2)+'%';}

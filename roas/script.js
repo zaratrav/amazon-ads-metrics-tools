@@ -1,0 +1,1 @@
+function calc(){let revenue=+a.value||0;let spend=+b.value||1;res.innerText=(revenue/spend).toFixed(2);}
